@@ -2,3 +2,5 @@
 Simple Image Viewer
 
 With TKinter 
+Using PIL/Pillow Library
+
